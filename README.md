@@ -122,8 +122,10 @@ Pursuing proficiency in full stack development, exploring MERN Stack and Next.js
 </div>
 
 ---
-<div align="center">
+<h4 align="center">
   Thanks for dropping by! 💻
+  <br><br>
   You can reach me via mail: sayarch2003@gmail.com
+  <br><br>
   Always open for collaborations and discussions on full-stack development and AI.
-</div>
+</h4>
