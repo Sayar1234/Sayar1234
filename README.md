@@ -101,25 +101,17 @@ Pursuing proficiency in full stack development, exploring MERN Stack and Next.js
 
 <div align="center">
     
-  [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sayar1234&theme=merko)](https://github.com/Sayar1234/github-readme-stats)
-  
-  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sayar1234&layout=compact&hide=python&theme=merko)](https://github.com/Sayar1234/github-readme-stats)
-  
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=Sayar1234&theme=merko)](https://git.io/streak-stats)
+  ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Sayar1234&show_icons=true&theme=tokyonight)
+
+  ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=Sayar1234&theme=tokyonight)
+
+  ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Sayar1234&layout=compact&theme=tokyonight)
   
 </div>
 
 ## My Activity
 
 [![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sayar1234&theme=react-dark)](https://github.com/Sayar1234/github-readme-activity-graph)
-
-## Trophies
-
-<div align="center">
-  
-  [![trophy](https://github-profile-trophy.vercel.app/?username=Sayar1234&theme=darkhub)](https://github.com/Sayar1234/github-profile-trophy)
-
-</div>
 
 ---
 <h4 align="center">
