@@ -66,37 +66,6 @@ Pursuing proficiency in full stack development, exploring MERN Stack and Next.js
   </tr>
 </table>
 
-## Projects
-
-### 1. **Twitter Clone**
-**Description:** Full-stack Twitter clone using MERN stack with TailwindCSS and DaisyUI.  
-**Features:**  
-- User authentication (JWT + bcrypt)  
-- CRUD for posts  
-- Follow/unfollow users  
-- Comment on posts  
-- Update profile & cover images  
-- Deployed on Render  
-
-**Tech Stack:** JavaScript, React, Node.js, Express, MongoDB, Tanstack Query, React Router Dom  
-**Repository:** [GitHub](https://github.com/Sayar1234/MERN-TwitterClone)  
-**Live Demo:** [Visit Site](https://mern-twitterclone-hfil.onrender.com/)
-
----
-
-### 2. **MERN TaskBoard**
-**Description:** Task management app with responsive UI and rate-limiting via Upstash Redis.  
-**Features:**  
-- Create, update, delete tasks  
-- Rate-limiting to prevent abuse  
-- Responsive UI with TailwindCSS  
-- Deployed on Render  
-
-**Tech Stack:** JavaScript, React, Node.js, Express, MongoDB, Mongoose, Redis, TailwindCSS  
-**Repository:** [GitHub](https://github.com/Sayar1234/MERN-TaskBoard)  
-**Live Demo:** [Visit Site](https://mern-taskboard-c7ak.onrender.com)
-
-
 ## GitHub Stats
 
 <div align="center">
